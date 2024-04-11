@@ -1,0 +1,4 @@
+#This file contains directories and files to be ignored by version control
+/vendor
+/tmp
+composer.lock
